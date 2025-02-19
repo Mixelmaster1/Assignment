@@ -1,0 +1,11 @@
+{
+  "name": "Assignment",
+  "version": "1.0.0",
+  "description": "Modify the Express server to save submitted form data into a data.json file.",
+  "main": "tsconfig.json",
+  "scripts": {
+    "start": "tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false
+}
